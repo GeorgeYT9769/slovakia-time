@@ -43,6 +43,7 @@ html, body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     word-spacing: -3px;
     letter-spacing: 1px;
+    font-size: 2.5rem;
   }
   
   .time {
@@ -51,4 +52,5 @@ html, body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     word-spacing: -3px;
     letter-spacing: 1px;
+    font-size: 2.5rem;
   }
